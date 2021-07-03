@@ -1,0 +1,83 @@
+{
+    "NAVBAR": {
+        "START": "START",
+        "NEWS": "NEWS",
+        "SETTINGS": "EINSTELLUNGEN"
+    },
+    "PLAY_BUTTON_STATES": {
+        "READY": "Spielen",
+        "GAME_READY": "ArmA starten",
+        "WAIT": "Bitte warten",
+        "VALIDATING": "Überprüfen",
+        "DOWNLOADING": "Lade runter"
+    },
+    "MODSET_SHEET": {
+        "ADD_MODSET": "Modset hinzufügen",
+        "REMOVE_MODSET": "Modset entfernen",
+        "PUBLIC_MODSETS": "Öffentliche Modsets",
+        "PRIVATE_MODSETS": "Private Modsets",
+        "ACTIVE": "Aktiv",
+        "ACTIVATING": "Aktiviere..."
+    },
+    "MODSET_MODAL": {
+        "ADD_MODSET": "Modset Hinzufügen",
+        "ID_OR_NAME": "ID oder Name",
+        "CLOSE": "Schließen",
+        "SAVE": "Hinzufügen",
+        "RETURN_STATES": {
+            "NOT_FOUND": "Es wurde kein Modset mit der ID gefunden.",
+            "FOUND": "Das Modset \"{{modset_name}}\" wurde erfolgreich hinzugefügt."
+        }
+    },
+    "RESTART_MODAL": {
+        "TITLE": "SALS Information",
+        "MESSAGES": {
+            "CLEAR_CACHE": "Der Cache für \"{{community_name}}\" is now cleared. wurde gelöscht. Der Launcher wird nun neu gestartet.",
+            "DELETE_CONFIG": "Die Config Datei wird nun neu generiert und der Launcher wird neu gestartet.",
+            "CHANGED_MOD_PATH": "Der Launcher wird nun neu gestartet, um die Änderungen wirksam zu machen. Zudem wird der Cache gelöscht.",
+            "CORRUPT_CONFIG": "Die derzeitige Config-Datei ist korrupt uns muss deswegen neu generiert werden. Bitte überprüfe nach dem neustart deine Einstellungen. Der Launcher wird nun neu gestartet.",
+            "INCOMPLETE_CONFIG": "Die derzeitige Config-Datei ist nicht vollständig und muss deswegen neu generiert werden. Dies kann durch ein update oder andere einwirkungen passeiert sein. Bitte überprüfe nach dem neustart deine Einstellungen."
+        }
+    },
+    "PAGES": {
+        "HOME": {
+            "CHANGE_MODSET": "Modset ändern"
+        },
+        "SETTINGS": {
+            "CHANGE": "Ändern",
+            "ADVANCED": "Erweitert",
+            "LAUNCHER_SETTINGS": {
+                "SECTION_NAME": "Launcher Einstellungen",
+                "ARMA_PATH": "ArmA Pfad",
+                "MOD_DOWNLOAD_PATH": "Mod Download Ordner"
+            },
+            "ARMA_PARAMETERS": {
+                "SECTION_NAME": "ArmA Parameter",
+                "NO_INTRO": "Kein Intro",
+                "HYPER_THREADING": "Hyper-Threading",
+                "NO_SPLASH_SCREEN": "Kein Splash Screen",
+                "PROFILE": "Profil"
+            },
+            "ADVANCED_ARMA_PARAMETERS": {
+                "SECTION_NAME": "Erweiterte ArmA Parameter",
+                "NO_PAUSE": "Keine Pause",
+                "NO_LOGS": "Keine Logs",
+                "SHOW_SCRIPT_ERRORS": "Skript error anzeigen",
+                "WINDOWED": "Fenstermodus"
+            },
+            "ADVANCED_LAUNCHER_SETTINGS": {
+                "SECTION_NAME": "Erweiterte Launcher Einstellungen",
+                "ARMA_AUTOSTART": "ArmA Auto-Start",
+                "AUTO_CONNECT": "Automatisch mit Server verbinden",
+                "COMMUNITY": "Community",
+                "ADD_COMMUNITY": "Community hinzufügen",
+                "LANGUAGE": "Sprache"
+            },
+            "MORE_OPTIONS": {
+                "SECTION_NAME": "Mehr Optionen",
+                "CLEAR_CACHE": "Cache leeren",
+                "DELETE_CONFIG": "Config löschen"
+            }
+        }
+    }
+}
