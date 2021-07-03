@@ -1,0 +1,83 @@
+{
+  "NAVBAR": {
+    "START": "START",
+    "NEWS": "NEWS",
+    "SETTINGS": "SETTINGS"
+  },
+  "PLAY_BUTTON_STATES": {
+    "READY": "Play",
+    "GAME_READY": "Start ArmA",
+    "WAIT": "Please Wait",
+    "VALIDATING": "Validating",
+    "DOWNLOADING": "Downloading"
+  },
+  "MODSET_SHEET": {
+    "ADD_MODSET": "Add Modset",
+    "REMOVE_MODSET": "Remove Modset",
+    "PUBLIC_MODSETS": "Public Modsets",
+    "PRIVATE_MODSETS": "Private Modsets",
+    "ACTIVE": "Active",
+    "ACTIVATING": "Activating..."
+  },
+  "MODSET_MODAL": {
+    "ADD_MODSET": "Add Modset",
+    "ID_OR_NAME": "ID or Name",
+    "CLOSE": "Close",
+    "SAVE": "Save",
+    "RETURN_STATES": {
+      "NOT_FOUND": "No Modset with the given ID or Name could be found.",
+      "FOUND": "The Modset \"{{modset_name}}\" has been successfully added."
+    }
+  },
+  "RESTART_MODAL": {
+    "TITLE": "SALS Information",
+    "MESSAGES": {
+      "CLEAR_CACHE": "The Cache for \"{{community_name}}\" is now cleared. The Launcher is going to restart now.",
+      "DELETE_CONFIG": "The Config file is now going to be regenerated and the Launcher is going to restart now.",
+      "CHANGED_MOD_PATH": "In order to apply the changes the Launcher has to restart. The Cache is also going to be cleared.",
+      "CORRUPT_CONFIG": "The current Config file is corrupt and has to be regenerated. Please check your settings when the Launcher has restarted.",
+      "INCOMPLETE_CONFIG": "The current Config file is incomplete and has to be regenerated. This may have happened because of an update or because the file is corrupt. Please check your settings when the Launcher has restarted."
+    }
+  },
+  "PAGES": {
+    "HOME": {
+      "CHANGE_MODSET": "Change Modset"
+    },
+    "SETTINGS": {
+      "CHANGE": "Change",
+      "ADVANCED": "Advanced",
+      "LAUNCHER_SETTINGS": {
+        "SECTION_NAME": "Launcher Settings",
+        "ARMA_PATH": "ArmA Path",
+        "MOD_DOWNLOAD_PATH": "Mod Download Path"
+      },
+      "ARMA_PARAMETERS": {
+        "SECTION_NAME": "ArmA Parameters",
+        "NO_INTRO": "No Intro",
+        "HYPER_THREADING": "Hyper-Threading",
+        "NO_SPLASH_SCREEN": "No Splash Screen",
+        "PROFILE": "Profile"
+      },
+      "ADVANCED_ARMA_PARAMETERS": {
+        "SECTION_NAME": "Advanced ArmA Parameters",
+        "NO_PAUSE": "No Pause",
+        "NO_LOGS": "No Logs",
+        "SHOW_SCRIPT_ERRORS": "Show Script Errors",
+        "WINDOWED": "Windowed"
+      },
+      "ADVANCED_LAUNCHER_SETTINGS": {
+        "SECTION_NAME": "Advanced Launcher Settings",
+        "ARMA_AUTOSTART": "ArmA Auto-Start",
+        "AUTO_CONNECT": "Automatically Connect to Server",
+        "COMMUNITY": "Community",
+        "ADD_COMMUNITY": "Add Community",
+        "LANGUAGE": "Language"
+      },
+      "MORE_OPTIONS": {
+        "SECTION_NAME": "More Options",
+        "CLEAR_CACHE": "Clear Cache",
+        "DELETE_CONFIG": "Delete Config"
+      }
+    }
+  }
+}
