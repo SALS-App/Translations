@@ -8,5 +8,5 @@ Repository Structure:
 |Project |Folder|
 --- | --- |
 |SALS Programm (Windows)|App|
-|Main Website ([SALS-APP.COM](https://sals-app.com))|Website|
+|Main Website ([sals-app.com](https://sals-app.com))|Website|
 |Brain Admin Panel ([brain.sals.app](https://brain.sals.app))|Admin
