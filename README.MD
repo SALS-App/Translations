@@ -1,8 +1,8 @@
 # SALS Translations
 
-this is a Mono-Repository containing Translation files for SALS and its associated Services. Feel free to Open a PR to correct any mistakes/misspellings.
+This is a Mono-Repository containing Translation files for SALS and its associated Services. Feel free to open a PR to correct any mistakes/misspellings.
 
-The filenames are the ISO Country Codes (ISO 3166-1 Alpha-2) for the respected language. All Translation files are in JSON format.
+The filenames are ISO Country Codes (ISO 3166-1 Alpha-2) for the respected language. All Translation files are in JSON format.
 
 Repository Structure:
 |Project |Folder|
