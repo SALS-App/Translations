@@ -32,7 +32,7 @@
 	"RESTART_MODAL": {
 		"TITLE": "SALS Information",
 		"MESSAGES": {
-			"CLEAR_CACHE": "Der Cache für \"{{community_name}}\" is now cleared. wurde gelöscht. Der Launcher wird nun neu gestartet.",
+			"CLEAR_CACHE": "Der Cache für \"{{community_name}}\" wurde gelöscht. Der Launcher wird nun neu gestartet.",
 			"DELETE_CONFIG": "Die Config Datei wird nun neu generiert und der Launcher wird neu gestartet.",
 			"CHANGED_MOD_PATH": "Der Launcher wird nun neu gestartet, um die Änderungen wirksam zu machen. Zudem wird der Cache gelöscht.",
 			"CORRUPT_CONFIG": "Die derzeitige Config-Datei ist korrupt uns muss deswegen neu generiert werden. Bitte überprüfe nach dem neustart deine Einstellungen. Der Launcher wird nun neu gestartet.",
