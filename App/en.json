@@ -16,6 +16,8 @@
 		"REMOVE_MODSET": "Remove Modset",
 		"PUBLIC_MODSETS": "Public Modsets",
 		"PRIVATE_MODSETS": "Private Modsets",
+		"PERFORMANCE_MODSET_AVAILABLE": "Performance Modset available",
+		"PERFORMANCE_MODSET_NOT_AVAILABLE": "Performance Modset not available",
 		"ACTIVE": "Active",
 		"ACTIVATING": "Activating..."
 	},
@@ -69,6 +71,7 @@
 				"SECTION_NAME": "Advanced Launcher Settings",
 				"ARMA_AUTOSTART": "ArmA Auto-Start",
 				"AUTO_CONNECT": "Automatically Connect to Server",
+				"USE_PERFORMANCE_MODSETS": "Use Performance Modsets",
 				"COMMUNITY": "Community",
 				"ADD_COMMUNITY": "Add Community",
 				"LANGUAGE": "Language"
