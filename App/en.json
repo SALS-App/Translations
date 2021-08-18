@@ -39,7 +39,8 @@
 			"CHANGED_MOD_PATH": "In order to apply the changes the Launcher has to restart. The Cache is also going to be cleared.",
 			"CORRUPT_CONFIG": "The current Config file is corrupt and has to be regenerated. Please check your settings when the Launcher has restarted.",
 			"INCOMPLETE_CONFIG": "The current Config file is incomplete. The missing options have been added. This may have happened because of an update or because the file was corrupt. Please check your settings when the Launcher has restarted."
-		}
+		},
+		"ACKNOWLEDGE_BUTTON": "Understood"
 	},
 	"BETA_MODAL": {
 		"MODAL_TITLE": "SALS Beta",
