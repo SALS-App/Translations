@@ -38,7 +38,7 @@
 			"DELETE_CONFIG": "The Config file is now going to be regenerated and the Launcher is going to restart now.",
 			"CHANGED_MOD_PATH": "In order to apply the changes the Launcher has to restart. The Cache is also going to be cleared.",
 			"CORRUPT_CONFIG": "The current Config file is corrupt and has to be regenerated. Please check your settings when the Launcher has restarted.",
-			"INCOMPLETE_CONFIG": "The current Config file is incomplete and has to be regenerated. This may have happened because of an update or because the file is corrupt. Please check your settings when the Launcher has restarted."
+			"INCOMPLETE_CONFIG": "The current Config file is incomplete. The missing options have been added. This may have happened because of an update or because the file was corrupt. Please check your settings when the Launcher has restarted."
 		}
 	},
 	"BETA_MODAL": {

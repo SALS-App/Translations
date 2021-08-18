@@ -38,7 +38,7 @@
 			"DELETE_CONFIG": "Die Config Datei wird nun neu generiert und der Launcher wird neu gestartet.",
 			"CHANGED_MOD_PATH": "Der Launcher wird nun neu gestartet, um die Änderungen wirksam zu machen. Zudem wird der Cache gelöscht.",
 			"CORRUPT_CONFIG": "Die derzeitige Config-Datei ist korrupt uns muss deswegen neu generiert werden. Bitte überprüfe nach dem neustart deine Einstellungen. Der Launcher wird nun neu gestartet.",
-			"INCOMPLETE_CONFIG": "Die derzeitige Config-Datei ist nicht vollständig und muss deswegen neu generiert werden. Dies kann durch ein update oder andere einwirkungen passeiert sein. Bitte überprüfe nach dem neustart deine Einstellungen."
+			"INCOMPLETE_CONFIG": "Die derzeitige Config-Datei ist nicht vollständig. Die fehlenden Optionen wurden wieder hinzugefügt. Dies kann durch ein update oder andere einwirkungen passeiert sein. Bitte überprüfe nach dem neustart deine Einstellungen."
 		}
 	},
 	"BETA_MODAL": {
