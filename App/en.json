@@ -41,6 +41,10 @@
 			"INCOMPLETE_CONFIG": "The current Config file is incomplete and has to be regenerated. This may have happened because of an update or because the file is corrupt. Please check your settings when the Launcher has restarted."
 		}
 	},
+	"BETA_MODAL": {
+		"MODAL_TITLE": "SALS Beta",
+		"MESSAGE": "Installing Stable version of SALS."
+	},
 	"PAGES": {
 		"HOME": {
 			"CHANGE_MODSET": "Change Modset"

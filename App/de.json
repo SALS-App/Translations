@@ -41,6 +41,10 @@
 			"INCOMPLETE_CONFIG": "Die derzeitige Config-Datei ist nicht vollständig und muss deswegen neu generiert werden. Dies kann durch ein update oder andere einwirkungen passeiert sein. Bitte überprüfe nach dem neustart deine Einstellungen."
 		}
 	},
+	"BETA_MODAL": {
+		"MODAL_TITLE": "SALS Beta",
+		"MESSAGE": "Installiere Stabile version von SALS."
+	},
 	"PAGES": {
 		"HOME": {
 			"CHANGE_MODSET": "Modset ändern"
