@@ -9,7 +9,8 @@
 		"GAME_READY": "ArmA starten",
 		"WAIT": "Bitte warten",
 		"VALIDATING": "Überprüfen",
-		"DOWNLOADING": "Lade runter"
+		"DOWNLOADING": "Lade runter",
+		"LOCKED": "Gesperrt"
 	},
 	"MODSET_SHEET": {
 		"ADD_MODSET": "Modset hinzufügen",

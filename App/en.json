@@ -9,7 +9,8 @@
 		"GAME_READY": "Start ArmA",
 		"WAIT": "Please Wait",
 		"VALIDATING": "Validating",
-		"DOWNLOADING": "Downloading"
+		"DOWNLOADING": "Downloading",
+		"LOCKED": "Locked"
 	},
 	"MODSET_SHEET": {
 		"ADD_MODSET": "Add Modset",
