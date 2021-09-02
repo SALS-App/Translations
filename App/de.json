@@ -31,6 +31,12 @@
 			"FOUND": "Das Modset \"{{modset_name}}\" wurde erfolgreich hinzugefügt."
 		}
 	},
+	"ARMA_NOT_FOUND_MODAL": {
+		"TITLE": "ArmaA3 Fehler",
+		"MESSAGE": "ArmA3 wurde in dem angegeben Pfad nicht gefunden. Bitte gib den richtigen Pfad zu Deiner ArmA3 installation in den Einstellungen an.",
+		"CLOSE": "Schließen",
+		"GO_TO_SETTINGS": "Einstellungen öffnen"
+	},
 	"RESTART_MODAL": {
 		"TITLE": "SALS Information",
 		"MESSAGES": {
