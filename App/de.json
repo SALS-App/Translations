@@ -37,6 +37,13 @@
 		"CLOSE": "Schließen",
 		"GO_TO_SETTINGS": "Einstellungen öffnen"
 	},
+	"STEAM_NOT_FOUND_MODAL": {
+		"TITLE": "Steam Fehler",
+		"MESSAGE": "SALS konnte Steam nicht finden. Bitte installiere Steam oder gebe hier den richtigen Pfad an.",
+		"FORM_LABEL": "Steam Pfad",
+		"FORM_ERROR_LABEL": "Steam konnte im angegeben Pfad nicht gefunden werden.",
+		"CLOSE": "Schließen"
+	},
 	"RESTART_MODAL": {
 		"TITLE": "SALS Information",
 		"MESSAGES": {

@@ -37,6 +37,13 @@
 		"CLOSE": "Close",
 		"GO_TO_SETTINGS": "Go to Settings"
 	},
+	"STEAM_NOT_FOUND_MODAL": {
+		"TITLE": "Steam Error",
+		"MESSAGE": "SALS could not find Steam in the provided path. Please select the folder with your current Steam installation.",
+		"FORM_LABEL": "Steam Path",
+		"FORM_ERROR_LABEL": "Steam not found in current path.",
+		"CLOSE": "Close"
+	},
 	"RESTART_MODAL": {
 		"TITLE": "SALS Information",
 		"MESSAGES": {
