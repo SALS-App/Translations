@@ -83,6 +83,7 @@
 				"ARMA_AUTOSTART": "ArmA Auto-Start",
 				"AUTO_CONNECT": "Automatically Connect to Server",
 				"USE_PERFORMANCE_MODSETS": "Use Performance Modsets",
+				"USE_DLC_COMPAT_MODS": "Use DLC Compatibility Mods",
 				"COMMUNITY": "Community",
 				"ADD_COMMUNITY": "Add Community",
 				"LANGUAGE": "Language"
