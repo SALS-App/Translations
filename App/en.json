@@ -62,7 +62,7 @@
 	},
 	"EXTRA_PARAMS_MODAL": {
 		"MODAL_TITLE": "ArmA3 Extra Start Parameter",
-		"MESSAGE": "For example \"-maxMem=8192\"",
+		"MESSAGE": "Example: \"-maxMem=8192 -window\"",
 		"HINT": "Parameters..",
 		"SAVE": "Save",
 		"CLOSE": "Close"
