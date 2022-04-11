@@ -60,6 +60,13 @@
 		"MODAL_TITLE": "SALS Beta",
 		"MESSAGE": "Installing Stable version of SALS."
 	},
+	"EXTRA_PARAMS_MODAL": {
+		"MODAL_TITLE": "ArmA3 Extra Start Parameter",
+		"MESSAGE": "For example \"-maxMem=8192\"",
+		"HINT": "Parameters..",
+		"SAVE": "Save",
+		"CLOSE": "Close"
+	},
 	"PAGES": {
 		"HOME": {
 			"CHANGE_MODSET": "Change Modset"
@@ -99,7 +106,8 @@
 			"MORE_OPTIONS": {
 				"SECTION_NAME": "More Options",
 				"CLEAR_CACHE": "Clear Cache",
-				"DELETE_CONFIG": "Delete Config"
+				"DELETE_CONFIG": "Delete Config",
+				"EXTRA_PARAMS": "Extra Parameters"
 			}
 		}
 	}
