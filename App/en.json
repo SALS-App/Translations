@@ -15,8 +15,9 @@
 	"MODSET_SHEET": {
 		"ADD_MODSET": "Add Modset",
 		"REMOVE_MODSET": "Remove Modset",
-		"PUBLIC_MODSETS": "Public Modsets",
+		"PUBLIC_MODSETS": "Official Modsets",
 		"PRIVATE_MODSETS": "Private Modsets",
+		"GUEST_MODSETS": "Guest Modsets",
 		"PERFORMANCE_MODSET_AVAILABLE": "Performance Modset available",
 		"PERFORMANCE_MODSET_NOT_AVAILABLE": "Performance Modset not available",
 		"ACTIVE": "Active",
