@@ -69,7 +69,7 @@
 		"CLOSE": "Close"
 	},
 	"MODSET_PATH_WRONG_MODAL": {
-		"TITLE": "Modset is invalid",
+		"TITLE": "Modset Path is invalid",
 		"MESSAGE": "The Modset can't be saved here. Please choose another Path.",
 		"CLOSE": "Close"
 	},
