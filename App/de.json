@@ -68,6 +68,11 @@
 		"SAVE": "Speichern",
 		"CLOSE": "Schließen"
 	},
+	"MODSET_PATH_WRONG_MODAL": {
+		"TITLE": "Modset Pfad ungültig",
+		"MESSAGE": "Die Modsets können in diesem Pfad nicht hinterlegt werden. Bitte wähle einen anderen Pfad aus.",
+		"CLOSE": "Schließen"
+	},
 	"PAGES": {
 		"HOME": {
 			"CHANGE_MODSET": "Modset ändern"
