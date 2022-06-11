@@ -71,6 +71,7 @@
 	"MODSET_PATH_WRONG_MODAL": {
 		"TITLE": "Modset Path is invalid",
 		"MESSAGE": "The Modset can't be saved here. Please choose another Path.",
+		"GO_TO_SETTINGS": "Go to Settings",
 		"CLOSE": "Close"
 	},
 	"PAGES": {

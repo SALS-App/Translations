@@ -71,6 +71,7 @@
 	"MODSET_PATH_WRONG_MODAL": {
 		"TITLE": "Modset Pfad ungültig",
 		"MESSAGE": "Die Modsets können in diesem Pfad nicht hinterlegt werden. Bitte wähle einen anderen Pfad aus.",
+		"GO_TO_SETTINGS": "Einstellungen öffnen",
 		"CLOSE": "Schließen"
 	},
 	"PAGES": {
